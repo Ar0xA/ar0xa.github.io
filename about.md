@@ -16,6 +16,6 @@ src="https://www.youtube.com/embed/2-OQhot_ml0">
 </iframe> 
 <p>
 <h1>You are amazing and I want to contact you!</h1>
-Really? You might want to reconsider that. <br/>
-<p>
+Really? You might want to reconsider that. <br />
+<br />
 If you absolutely want to set yourself up for some kind of sarcastic abuse, by contacting me you can email me ar0xa /at/ protonmail /dot/ com. 
