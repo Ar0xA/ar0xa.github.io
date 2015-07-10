@@ -6,10 +6,14 @@ title: About
   Hey there! You are curious about me? Shame on you.
 </p>
 <h1>Who are you?</h1>
-Thanks for reading!
+Just a random nobody who thinks he knows a thing or two about security. A gamer, a dad, a smart-ass, a book lover and anime freak. <br />
+I'm also grumpy, short tempered and have little patience for information security <a href="http://attrition.org/errata/charlatan/" target="_blank">charlatans</a>.
 <p>
 <h1>What do you do for a living?</h1>
-This is what I do:
+So glad you asked! This is what I do:
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/2-OQhot_ml0">
 </iframe> 
+<h1>So like, you are amazing and I want to contact you. How do I go about that?</h1>
+Really? You might want to reconsider that. <br/>
+If you absolutely want to set yourself up for some kind of sarcastic abuse, by contacting me you can email me ar0xa /at/ protonmail /dot/ com. 
