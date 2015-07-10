@@ -14,6 +14,7 @@ So glad you asked! This is what I do:
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/2-OQhot_ml0">
 </iframe> 
-<h1>So like, you are amazing and I want to contact you. How do I go about that?</h1>
+<p>
+<h1>You are amazing and I want to contact you!</h1>
 Really? You might want to reconsider that. <br/>
 If you absolutely want to set yourself up for some kind of sarcastic abuse, by contacting me you can email me ar0xa /at/ protonmail /dot/ com. 
