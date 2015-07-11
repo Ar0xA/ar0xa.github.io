@@ -25,21 +25,21 @@ If you absolutely want to set yourself up for some kind of sarcastic abuse, you 
 	<div class="leftimg">
     <img src="/public/images/Twitter-bird-small.jpg" />
 	</div>
-	<div>
+	<div class="righttext">
 	<a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a>
     </div>
 	<br/>
 	<div class="leftimg">
         <img src="/public/images/email-shadow.png" />
 	</div>
-	<div>
+	<div class="righttext">
 	Ar0xa /at/ protonmail /dot/ com
 	</div>
 	<br/>
 	<div class="leftimg">
         <img src="/public/images/keybase_logo.png" />
 	</div>
-	<div>
+	<div class="righttext">
 	<a href="https://keybase.io/ar0xa">https://keybase.io/ar0xa</a>
 	</div>
 	<br />
