@@ -22,12 +22,12 @@ Really? You might want to reconsider that. <br />
 If you absolutely want to set yourself up for some kind of sarcastic abuse, you can contact me in the following ways:<br/>
 <p>
 <div id="container">
-    <div>
-    <img src="/public/images/Twitter-bird-small.jpg" />
-	</div>
 	<div class="righttext">
 	    <a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a><br/>
     </div>
+    <img src="/public/images/Twitter-bird-small.jpg" />
+	
+
     <img src="/public/images/email-shadow.png" />
 	<div class="righttext">
 	    Ar0xa /at/ protonmail /dot/ com<br/>
