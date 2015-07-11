@@ -265,6 +265,9 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 }
 
+.righttext {
+float:right;
+}
 
 /*
  * Masthead
@@ -401,6 +404,3 @@ a.pagination-item:hover {
   }
 }
 
-.righttext {
-float:right;
-}
