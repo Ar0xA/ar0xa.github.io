@@ -26,16 +26,14 @@ If you absolutely want to set yourself up for some kind of sarcastic abuse, you 
 	    <a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a><br/>
     </div>
     <img src="/public/images/Twitter-bird-small.jpg" />
-	
-
-    <img src="/public/images/email-shadow.png" />
 	<div class="righttext">
 	    Ar0xa /at/ protonmail /dot/ com<br/>
 	</div>
-    <img src="/public/images/keybase_logo.png" />
+    <img src="/public/images/email-shadow.png" />
 	<div class="righttext">
 	    <a href="https://keybase.io/ar0xa">https://keybase.io/ar0xa</a><br />
 	</div>
+    <img src="/public/images/keybase_logo.png" />
 </div>
  Another place you can almost always find 
 me is on <a href="irc://chat.freenode.net">Freenode</a> in the <a href="https://www.vulnhub.com/">#vulnhub</a> channel.
