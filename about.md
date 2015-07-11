@@ -19,4 +19,6 @@ src="https://www.youtube.com/embed/2-OQhot_ml0">
 <h1>You are amazing and I want to contact you!</h1>
 Really? You might want to reconsider that. <br />
 <br />
-If you absolutely want to set yourself up for some kind of sarcastic abuse, you can email me ar0xa /at/ protonmail /dot/ com or send me a DM on twitter <a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a>.
+If you absolutely want to set yourself up for some kind of sarcastic abuse, you can email me ar0xa /at/ protonmail /dot/ com or send me a DM 
+on twitter <a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a>. Another place you can almost always find 
+me is on <a href="irc://chat.freenode.net">Freenode</a> in the <a href="https://www.vulnhub.com/">#vulnhub</a> channel.
