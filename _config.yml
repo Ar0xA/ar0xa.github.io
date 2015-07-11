@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Too Long; Do Read
 
-description:      'I am not just talking crap'
+description:      'I am not <u>just</u> talking crap'
 url:              http://tldr.nu
 
 author:
