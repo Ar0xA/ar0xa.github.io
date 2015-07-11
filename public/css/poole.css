@@ -235,6 +235,9 @@ margin-left: 50px;
 padding-top: 3px;
 }
 
+.twitbox {
+max-width: 30rem;
+}
 /*
  * Masthead
  *
