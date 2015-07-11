@@ -26,20 +26,22 @@ If you absolutely want to set yourself up for some kind of sarcastic abuse, you 
     <img src="/public/images/Twitter-bird-small.jpg" />
 	</div>
 	<div>
-	<a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a><br/>
+	<a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a>
     </div>
+	<br/>
 	<div class="leftimg">
         <img src="/public/images/email-shadow.png" />
 	</div>
 	<div>
-	Ar0xa /at/ protonmail /dot/ com<br/>
+	Ar0xa /at/ protonmail /dot/ com
 	</div>
+	<br/>
 	<div class="leftimg">
         <img src="/public/images/keybase_logo.png" />
 	</div>
 	<div>
-	<a href="https://keybase.io/ar0xa">https://keybase.io/ar0xa</a><br />
+	<a href="https://keybase.io/ar0xa">https://keybase.io/ar0xa</a>
 	</div>
+	<br />
 </div>
- Another place you can almost always find 
-me is on <a href="irc://chat.freenode.net">Freenode</a> in the <a href="https://www.vulnhub.com/">#vulnhub</a> channel.
+Another place you can almost always find me is on <a href="irc://chat.freenode.net">Freenode</a> in the <a href="https://www.vulnhub.com/">#vulnhub</a> channel.
