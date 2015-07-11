@@ -3,7 +3,7 @@ layout: post
 title: Testing highlight javascript
 ---
 
-<pre><code class="python">
+<pre class="brush: python">
 import socket, random, time
 from urllib import urlencode
 from urllib2 import urlopen, Request
@@ -80,6 +80,4 @@ if __name__ == "__main__":
                 sendmsg(irc,'PRIVMSG '+ CHANNEL + ' :%s:%s\r\n' % (speaker_name,what_to_say))
 
         print data
-
-</code>
 </pre>
