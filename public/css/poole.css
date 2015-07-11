@@ -269,7 +269,8 @@ tbody tr:nth-child(odd) th {
 float:left;
 }
 .righttext {
-padding-left: 1rem;
+margin-left: 50px;
+padding-top: 3px;
 }
 
 /*
