@@ -33,14 +33,14 @@ If you absolutely want to set yourself up for some kind of sarcastic abuse, you 
         <img src="/public/images/email-shadow.png" />
 	</div>
 	<div class="righttext">
-	Ar0xa /at/ protonmail /dot/ com
+	<a href="mailto:ar0xa@protonmail.com?SUBJECT=TLDR%20reaction">ar0xa@protonmail.com</a>
 	</div>
 	<br/>
 	<div class="leftimg">
         <img src="/public/images/keybase_logo.png" />
 	</div>
 	<div class="righttext">
-	<a href="https://keybase.io/ar0xa">https://keybase.io/ar0xa</a>
+	<a href="https://keybase.io/ar0xa" target="_blank">https://keybase.io/ar0xa</a>
 	</div>
 	<br />
 </div>
