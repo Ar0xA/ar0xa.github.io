@@ -265,8 +265,8 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 }
 
-.righttext {
-float:right;
+.leftimg {
+float:left;
 }
 
 /*
