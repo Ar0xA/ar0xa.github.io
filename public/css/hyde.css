@@ -192,11 +192,11 @@ a.sidebar-nav-item:focus {
 
 /* Orange */
 .theme-base-09 .sidebar {
-  background-color: #d28455;
+  background-color: #1d5F6F;
 }
 .theme-base-09 .content a,
 .theme-base-09 .related-posts li a:hover {
-  color: #d28445;
+  color: #1d5F6F;
 }
 
 /* Yellow */
