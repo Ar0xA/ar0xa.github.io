@@ -16,7 +16,7 @@ However, the lizard's company was getting bigger and bigger, and the owls who go
 
 The company already had a tool that they used a lot during the creation process of machines; that tool was also used to register problems that the customers that used the machines ran into.
 
-The mouse figured that this might be a great place to also handle the issues he found, after all the system was already widely in use within the lizard's company and the machine creators were already used to working with it. This tool was called <a href="https://www.atlassian.com/software/jira"Jira</a>.
+The mouse figured that this might be a great place to also handle the issues he found, after all the system was already widely in use within the lizard's company and the machine creators were already used to working with it. This tool was called <a href="https://www.atlassian.com/software/jira">Jira</a>.
 
 However as far and wide as the mouse searched, no one had made something to make the findings tool Seccubus interact with Jira. A little sad, and disappointed the mouse then started to figure things out on his own. Both tools had excellent interfaces for other programs to talk to. So the mouse figured that all that would be required is to make yet another tool that would sit between Seccubus and Jira and that would make them interact.
 
