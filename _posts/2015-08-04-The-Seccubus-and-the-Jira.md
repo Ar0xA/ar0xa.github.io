@@ -28,7 +28,7 @@ The end.
 
 **How it works**
 
-Findings are imported into Seccubus. jiraLinkSeccubus will look for all NEW findings of a specific workspace and create tickets in Jira, using its API. Then in Seccubus, the findings comment field will be updated so that jiraLinkSeccubus knows where to find the information in Jira.
+Findings are imported into Seccubus. jiraLinkSeccubus will look for all NEW findings of a specific workspace and create tickets in Jira, using its API. That is, unless alwaysMakeJiraLink is set to True, then it will always create a link if there is none, no matter the status of the finding in Seccubus. Then in Seccubus, the findings comment field will be updated so that jiraLinkSeccubus knows where to find the information in Jira.
 
 This means, that if you lose the information in the comment field, the application will be unable to link the finding to Jira. You can of course manually add the link; using the correct format, it's only text after all.
 
