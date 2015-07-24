@@ -98,6 +98,8 @@ function checkCookie(c_action) {
         // within the last year and has declined the use of cookies
 
         setCookie(cookieNameNo, cookieChkNo, 365); // set the cookie to expire in a year.
+		//send him his marry way
+		window.location.replace("http://www.quickmeme.com/img/0a/0a6263074c7ce94f09dae0aa3721d1726564ae899a2b97994ccefcbf78161076.jpg");
     }
     else {
         // No cookie exists, so display the lightbox effect notification.
