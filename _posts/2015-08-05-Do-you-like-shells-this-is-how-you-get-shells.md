@@ -4,7 +4,7 @@ title: Do you like shells? This is how you get shells.
 comments: true
 ---
 
-Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like EMET, anti-malware programs like Malwarebytes. And perhaps even anti-keyboard logging applications like Zemana's AntiLogger and a password manager.
+Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like <a href="https://support.microsoft.com/en-us/kb/2458544" target="_blank">EMET</a>, anti-malware programs like Malwarebytes. And perhaps even anti-keyboard logging applications like <a href="https://www.zemana.com/AntiLogger" target="_blank">Zemana's AntiLogger</a> and a password manager.
 
 **But do those really help?**
 
