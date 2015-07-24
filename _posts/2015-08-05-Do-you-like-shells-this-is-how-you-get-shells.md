@@ -62,7 +62,11 @@ Curious to see what I privileges I have I do getprivs:
 wtf? does that guy run as admin or something? Not that I mind though if he did ;) so, lets try the magical "getsystem":
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf4.JPG)
 
-yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all in a matter of minutes and the fact that my buddy was willing to run a program I send him. Not only that, because he runs as administrator, I could even get full system user.
+yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all in a matter of minutes and the fact that my buddy was willing to run a program I send him. Not only that, because he runs as administrator, I could even get full system user. And you know why?
+* That imaginary idiot runs programs I send him. Big <b>BIG</a> mistake;
+* Anti-virus is trivial to evade, as demonstrated;
+* Anti exploit tools don't help you here; it's not an exploit, but just a program he runs.
+* The idiot ran it as administrator /doublefacepalm.
 
 Now though, what about the key-logger tool? Innocently I walk over to my buddies desk, and ask him if he can log into our support portal, a web-application, to look at a ticket I have questions about.
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf5.JPG)
