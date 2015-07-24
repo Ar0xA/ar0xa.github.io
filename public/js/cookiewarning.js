@@ -44,7 +44,7 @@ function displayNotification(c_action) {
     message = message + "<div style='text-align:center;margin:0px;padding:10px;padding-left:20rem;width:auto;background:#EE6363;color:black;font-size:90%;'><div class='leftimg'><img src='/public/images/giphy.gif'></div>";
 
     // this is the message displayed to the user.
-    message = message + "This site uses <b>heavy sarcasm</b>, talks about imaginary friends and things that never happened or even might be physically possible. <br />If you are too much of a sissy to handle that, I prefer would prefer if you just go somewhere else <br />and click the \"I don't agree\" button. <br /> <br />Oh, also this site uses cookies: <br />In order for it to work correctly, we store a small file (called a cookie) on your computer. <br /> If you click \"I agree\" below we will create the cookies all is well. If you click on \"I don't agree\" we will send you far, VERY far away.<br />";
+    message = message + "This site uses <b>heavy sarcasm</b>, talks about imaginary friends and things that never happened or even might be physically possible. <br />If you are too much of a sissy to handle that, I would suggest you just go somewhere else <br />and click the \"I don't agree\" button. <br /> <br />Oh, also this site uses cookies: <br />In order for it to work correctly, we store a small file (called a cookie) on your computer. <br /> If you click \"I agree\" below we will create the cookies all is well. If you click on \"I don't agree\" we will send you far, VERY far away.<br />";
 
     // Displays the I agree/disagree buttons.
     // Feel free to change the address of the I disagree redirection to either a non-cookie site or a Google or the ICO web site 
