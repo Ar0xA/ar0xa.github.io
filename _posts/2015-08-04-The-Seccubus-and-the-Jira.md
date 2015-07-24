@@ -41,6 +41,8 @@ I am by no means a programmer. I added some checks and error handling, but chanc
 **Why not implement this in Seccubus?**
 
 The reason is twofold:
-- Seccubus mostly uses Perl. I do not really like Perl. While I have done pull requests to Seccubus for changes. I rather do it in Python.
-- There is a big UI rewrite happening in Seccubus. I did not get any feedback on the status, ETA's or things like that. So I figured it might be easier to just make it and be done with it.
+
+* Seccubus mostly uses Perl. I do not really like Perl. While I have done pull requests to Seccubus for changes. I rather do it in Python.
+
+* There is a big UI rewrite happening in Seccubus. I did not get any feedback on the status, ETA's or things like that. So I figured it might be easier to just make it and be done with it.
 
