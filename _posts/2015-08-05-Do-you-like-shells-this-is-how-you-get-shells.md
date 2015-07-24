@@ -95,14 +95,14 @@ And..nothing. Seems that this password manager, <a href="http://remotedesktopman
 How about a more popular password manager tool like LastPass though? How does that fare work:
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf9.JPG)
 
-Well I'll be darned; nothing. So because this also uses a browser plug-in; the clipboard isn't used and this too is a great way to protect your passwords.
+Well I'll be darned; nothing. So because this also uses a browser plug-in; the clipboard isn't used and this too is a great way to protect your passwords. Obviously when you copy it from the password manager to be used outside of a browser, the clipboard is used. It's not a complete fix.
 
 
 **conclusion**
 
 It's easy to evade anti-virus and anti-malware tools using tools like Metasploit, Meterpreter and Shellter. And unless you try actually execute evil code by abusing an exploit, anti-exploit tools like EMET will be rather useless too.
 
-What did work though it dit not prevent the takeover of the system were a solid password manager that uses a browser plugin and Zemana's AntiLogger. 
+What did work, though it did not prevent the takeover of the system, were a solid password manager that uses a browser plugin and Zemana's AntiLogger. 
 
 What would have helped? If my fictional buddy wouldn't have executed the program I had send him, what a trusting dumb-ass. And shows that you can't trust anyone, and you should never, ever run programs unless you absolutely trust the source that send them.
 
