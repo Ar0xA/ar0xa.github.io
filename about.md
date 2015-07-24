@@ -16,6 +16,18 @@ So glad you asked! This is what I do: <br /><br />
 src="https://www.youtube.com/embed/2-OQhot_ml0">
 </iframe> 
 <p>
+<div>
+<h1>FAQ:</h1>
+Q: Can I contact you for a job offering? <br />
+A: Unless the offer includes a bently with chauffeur and all-you-can-eat friday night sushi: NO!<br />
+<br />
+Q: Are you really so rude and sarcastic? <br />
+A: No, but I need a place to vent. This is it. Deal with it. <br />
+<br />
+Q: Why no Disqus or something to allow comments? <br />
+A: If you have questions, disagree or agree with something I wrote here enough to contact me, use twitter or email (see below).<br />
+</div>
+<p>
 <h1>You are amazing and I want to contact you!</h1>
 Really? You might want to reconsider that. <br />
 <br />
