@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/2-OQhot_ml0">
 <div>
 <h1>FAQ:</h1>
 Q: Can I contact you for a job offering? <br />
-A: Unless the offer includes a Bentley with chauffeur and all-you-can-eat Fridaynight sushi: <u><b>absolutely not</b></u>!<br />
+A: Unless the offer includes a Bentley with chauffeur and all-you-can-eat Friday sushi: <u><b>absolutely not</b></u>!<br />
 <br />
 Q: Are you really so rude and sarcastic? <br />
 A: No, but I need a place to vent. This is it. Deal with it. <br />
