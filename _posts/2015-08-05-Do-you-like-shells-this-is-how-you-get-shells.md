@@ -68,7 +68,7 @@ yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all
 
 * Anti-virus is trivial to evade, as demonstrated;
 
-* Anti exploit tools don't help you here; it's not an exploit, but just a program he runs.
+* Anti exploit tools don't help you here; it's not an exploit, but just a program he runs;
 
 * The idiot ran it as administrator /doublefacepalm.
 
