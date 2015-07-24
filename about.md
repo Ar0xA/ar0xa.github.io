@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About page
+description: This is the about page
 ---
 <p class="message">
   Hey there! You are curious about me? Shame on you.
