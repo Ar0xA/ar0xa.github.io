@@ -31,7 +31,7 @@ Big extra advantage of the password manager is that keyloggers usually don't wor
 
 **How easy can you get around this?**
 
-Sadly, very easy if you can get the user to execute a program you send them. On a fully patched Windows 8.1 system loaded up with anti-virus, EMET and AntiLogger; all it took was <a href="http://www.metasploit.com/" target="_blank">Metasploit's Meterpreter</a> and Shellter.
+Sadly, very easy if you can get the user to execute a program you send them. On a fully patched Windows 8.1 system loaded up with anti-virus, EMET and AntiLogger; all it took was <a href="http://www.metasploit.com/" target="_blank">Metasploit's Meterpreter</a> and <a href="https://www.shellterproject.com/" target="_blank">Shellter</a>.
 
 Shellter gets around the anti-virus, rather reliably. EMET is useless in this case, because we drop an infected binary and get a user to execute it. 
 
