@@ -4,7 +4,7 @@ title: Do you like shells? This is how you get shells.
 comments: true
 ---
 
-Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like <a href="https://support.microsoft.com/en-us/kb/2458544" target="_blank">EMET</a>, anti-malware programs like Malwarebytes. And perhaps even anti-keyboard logging applications like <a href="https://www.zemana.com/AntiLogger" target="_blank">Zemana's AntiLogger</a> and a password manager.
+Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like <a href="https://support.microsoft.com/en-us/kb/2458544" target="_blank">EMET</a>, anti-malware programs like <a href="https://www.malwarebytes.org/" target="_blank">Malwarebytes</a>. And perhaps even anti-keyboard logging applications like <a href="https://www.zemana.com/AntiLogger" target="_blank">Zemana's AntiLogger</a> and a password manager.
 
 **But do those really help?**
 
@@ -82,9 +82,9 @@ After a while I do a clipboard_dump to see if anything interesting is there:
 
 Well, not very. But at least it works. Now what about the password manager my somewhat fictional buddy uses? Will those credentials be captured after all?
 
-And..nothing. Seems that this password manager (Remote Desktop Manager) uses browser plug-ins and does not use the clipboard to transfer data. How disappointing (from an attackers point of view).
+And..nothing. Seems that this password manager, <a href="http://remotedesktopmanager.com/" target="_blank">Remote Desktop Manager</a>, uses browser plug-ins and does not use the clipboard to transfer data. How disappointing (from an attackers point of view).
 
-How about a more popular password manager tool like LastPass though? How does that fare work:
+How about a more popular password manager tool like <a href="https://lastpass.com/" target="_blank">LastPass</a> though? How does that fare work:
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf9.JPG)
 
 Well I'll be darned; nothing. So because this also uses a browser plug-in; the clipboard isn't used and this too is a great way to protect your passwords.
