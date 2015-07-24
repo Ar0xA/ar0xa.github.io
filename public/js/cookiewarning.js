@@ -66,11 +66,10 @@ function doAccept() {
 function doNotAccept(c_action) {
 
 	if (c_action == 1) {
-		setCookie("ImSuperLame", null, 365);
-		//location.reload(true);
-		window.location.replace("http://www.quickmeme.com/img/0a/0a6263074c7ce94f09dae0aa3721d1726564ae899a2b97994ccefcbf78161076.jpg");
+        alert("You didn't want sarcasm or tracking cookies #sadpanda is sad. Hope you have more fun somewhere else.");
+		window.location.replace("http://www.wikihow.com/Have-Fun-with-Grandma");
 	} else {
-		window.location.replace("http://www.quickmeme.com/img/0a/0a6263074c7ce94f09dae0aa3721d1726564ae899a2b97994ccefcbf78161076.jpg");
+		window.location.replace("http://www.wikihow.com/Have-Fun-with-Grandma");
 	}
 }
 
@@ -84,23 +83,11 @@ function setCookie(c_name, value, exdays) {
 function checkCookie(c_action) {
 
     var cookieName = "ILoveAr0xA";
-    var cookieNameNo = "ImSuperLame";
     var cookieChk = getCookie(cookieName);
-    var cookieChkNo = getCookie(cookieNameNo);
     if (cookieChk != null && cookieChk != "") {
         // the jsCookieCheck cookie exists so we can assume the person has read the notification
         // within the last year and has accepted the use of cookies
-
         setCookie(cookieName, cookieChk, 365); // set the cookie to expire in a year.
-    }
-    else if (cookieChkNo != null && cookieChkNo != "") {
-        // the ImSuperLame cookie exists so we can assume the person has read the notification
-        // within the last year and has declined the use of cookies
-
-        setCookie(cookieNameNo, cookieChkNo, 365); // set the cookie to expire in a year.
-		//send him his marry way
-		alert("You didn't want sarcasm or tracking cookies,you are better off somewhere else. <br />Delete the ImSuperLame cookie if you change your mind.");
-		window.location.replace("http://www.quickmeme.com/img/0a/0a6263074c7ce94f09dae0aa3721d1726564ae899a2b97994ccefcbf78161076.jpg");
     }
     else {
         // No cookie exists, so display the lightbox effect notification.
