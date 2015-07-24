@@ -8,7 +8,7 @@ title: About
 <h1>Who are you?</h1>
 Just a random, sarcastic, grumpy, foul-mouthed nobody who thinks he knows a thing or two about security. A gamer, a dad, a smart-ass, a book lover and anime freak. <br />
 <br />
-I'm also grumpy, short tempered and have little patience for information security <a href="http://attrition.org/errata/charlatan/" target="_blank">charlatans</a>.
+I'm also short tempered and have little patience for information security <a href="http://attrition.org/errata/charlatan/" target="_blank">charlatans</a>.
 <p>
 <h1>What do you do for a living?</h1>
 So glad you asked! This is what I do:
