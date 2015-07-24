@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do you like shells? This is how you get shells.
-comments: true
+description: How easy is it to evade anti-virus, and go around anti-exploit and anti-keylog tools
 ---
 
 Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like <a href="https://support.microsoft.com/en-us/kb/2458544" target="_blank">EMET</a>, anti-malware programs like <a href="https://www.malwarebytes.org/" target="_blank">Malwarebytes</a>. Or perhaps even anti-keyboard logging applications like <a href="https://www.zemana.com/AntiLogger" target="_blank">Zemana's AntiLogger</a> and a password manager like <a href="https://lastpass.com/" target="_blank">LastPass</a>.
