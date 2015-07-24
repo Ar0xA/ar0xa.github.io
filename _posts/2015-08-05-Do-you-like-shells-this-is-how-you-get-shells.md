@@ -64,7 +64,7 @@ wtf? does that guy run as admin or something? Not that I mind though if he did ;
 
 yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all in a matter of minutes and the fact that my buddy was willing to run a program I send him. Not only that, because he runs as administrator, I could even get full system user. And you know why?
 
-* That imaginary idiot runs programs I send him. Big <b>BIG</a> mistake;
+* That imaginary idiot runs programs I send him. Big <b>BIG</b> mistake;
 
 * Anti-virus is trivial to evade, as demonstrated;
 
