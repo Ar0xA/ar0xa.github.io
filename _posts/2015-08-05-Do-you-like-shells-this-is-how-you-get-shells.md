@@ -80,7 +80,7 @@ I see him type the URL, enter his user name and password, and log in. After we a
 
 Well darn! I guess AntiLogger does work!
 
-Not to be foiled, I figure that perhaps the clipboard monitoring tool made by my friend OJ aka 0-day Reeves, aka <a href="https://twitter.com/thecolonial" target="_blank">TheColonial</a> made a while ago (more info: <a href="http://buffered.io/posts/3-months-of-meterpreter/" target="_blank">http://buffered.io/posts/3-months-of-meterpreter/)
+Not to be foiled, I figure that perhaps the clipboard monitoring tool made by my friend OJ aka 0-day Reeves, aka <a href="https://twitter.com/thecolonial" target="_blank">TheColonial</a> made a while ago (more info: <a href="http://buffered.io/posts/3-months-of-meterpreter/" target="_blank">http://buffered.io/posts/3-months-of-meterpreter/</a>)
 
 Invoking the extra badassery he made, I start the clipboard monitor:
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf7.JPG)
