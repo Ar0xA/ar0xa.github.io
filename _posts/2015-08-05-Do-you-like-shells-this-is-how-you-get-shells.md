@@ -4,7 +4,7 @@ title: Do you like shells? This is how you get shells.
 comments: true
 ---
 
-Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like <a href="https://support.microsoft.com/en-us/kb/2458544" target="_blank">EMET</a>, anti-malware programs like <a href="https://www.malwarebytes.org/" target="_blank">Malwarebytes</a>. And perhaps even anti-keyboard logging applications like <a href="https://www.zemana.com/AntiLogger" target="_blank">Zemana's AntiLogger</a> and a password manager.
+Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like <a href="https://support.microsoft.com/en-us/kb/2458544" target="_blank">EMET</a>, anti-malware programs like <a href="https://www.malwarebytes.org/" target="_blank">Malwarebytes</a>. Or perhaps even anti-keyboard logging applications like <a href="https://www.zemana.com/AntiLogger" target="_blank">Zemana's AntiLogger</a> and a password manager like <a href="https://lastpass.com/" target="_blank">LastPass</a>.
 
 **But do those really help?**
 
@@ -80,7 +80,7 @@ I see him type the URL, enter his user name and password, and log in. After we a
 
 Well darn! I guess AntiLogger does work!
 
-Not to be foiled, I figure that perhaps the clipboard monitoring tool made by my friend OJ aka 0day Reeves, aka TheColonial made a while ago (http://buffered.io/posts/3-months-of-meterpreter/)
+Not to be foiled, I figure that perhaps the clipboard monitoring tool made by my friend OJ aka 0-day Reeves, aka <a href="https://twitter.com/thecolonial" target="_blank">TheColonial</a> made a while ago (more info: <a href="http://buffered.io/posts/3-months-of-meterpreter/" target="_blank">http://buffered.io/posts/3-months-of-meterpreter/)
 
 Invoking the extra badassery he made, I start the clipboard monitor:
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf7.JPG)
@@ -92,7 +92,7 @@ Well, not very. But at least it works. Now what about the password manager my so
 
 And..nothing. Seems that this password manager, <a href="http://remotedesktopmanager.com/" target="_blank">Remote Desktop Manager</a>, uses browser plug-ins and does not use the clipboard to transfer data. How disappointing (from an attackers point of view).
 
-How about a more popular password manager tool like <a href="https://lastpass.com/" target="_blank">LastPass</a> though? How does that fare work:
+How about a more popular password manager tool like LastPass though? How does that fare work:
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf9.JPG)
 
 Well I'll be darned; nothing. So because this also uses a browser plug-in; the clipboard isn't used and this too is a great way to protect your passwords.
