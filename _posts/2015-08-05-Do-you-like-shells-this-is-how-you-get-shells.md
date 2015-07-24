@@ -90,7 +90,7 @@ After a while I do a clipboard_dump to see if anything interesting is there:
 
 Well, not very. But at least it works. Now what about the password manager my somewhat fictional buddy uses? Will those credentials be captured after all?
 
-And..nothing. Seems that this password manager, <a href="http://remotedesktopmanager.com/" target="_blank">Remote Desktop Manager</a>, uses browser plug-ins and does not use the clipboard to transfer data. How disappointing (from an attackers point of view).
+And..nothing. Seems that this rather obscure password manager, uses browser plug-ins and does not use the clipboard to transfer data. How disappointing (from an attackers point of view).
 
 How about a more popular password manager tool like LastPass though? How does that fare work:
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf9.JPG)
