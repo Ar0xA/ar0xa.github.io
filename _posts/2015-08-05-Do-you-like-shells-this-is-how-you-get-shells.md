@@ -59,10 +59,10 @@ Thanks buddy! (he does complain that the application didn't start by the way.)
 Curious to see what I privileges I have I do getprivs:
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf3.JPG)
 
-wtf? does that guy run as admin or something? Not that I mind though if he did ;) so, lets try the magical "getsystem":
+What the hell? Does that guy run as admin or something? Not that I mind though if he did ;) so, lets try the magical "getsystem":
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf4.JPG)
 
-yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all in a matter of minutes and the fact that my buddy was willing to run a program I send him. Not only that, because he runs as administrator, I could even get full system user. And you know why?
+Yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all in a matter of minutes and the fact that my buddy was willing to run a program I send him. Not only that, because he runs as administrator, I could even get full system user. And you know why?
 
 * That imaginary idiot runs programs I send him. Big <b>BIG</b> mistake;
 
@@ -72,7 +72,7 @@ yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all
 
 * The idiot ran it as administrator /doublefacepalm.
 
-Now though, what about the key-logger tool? Innocently I walk over to my buddies desk, and ask him if he can log into our support portal, a web-application, to look at a ticket I have questions about.
+Now though, what about the key-logger tool? Innocently I walk over to my buddies imaginary desk, and ask him if he can log into our support portal, a web-application, to look at a ticket I have questions about.
 ![msf]({{ site.url }}/public/images/thisishowyougetshells/msf5.JPG)
 
 I see him type the URL, enter his user name and password, and log in. After we are done I go back and dump the credentials that Meterpreter should log for me:
