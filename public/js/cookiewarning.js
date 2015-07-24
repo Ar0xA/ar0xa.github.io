@@ -68,6 +68,7 @@ function doNotAccept(c_action) {
 	if (c_action == 1) {
 		setCookie("ImSuperLame", null, 365);
 		location.reload(true);
+		window.location.replace("http://www.quickmeme.com/img/0a/0a6263074c7ce94f09dae0aa3721d1726564ae899a2b97994ccefcbf78161076.jpg");
 	} else {
 		window.location.replace("http://www.quickmeme.com/img/0a/0a6263074c7ce94f09dae0aa3721d1726564ae899a2b97994ccefcbf78161076.jpg");
 	}
