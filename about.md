@@ -11,7 +11,7 @@ Just a random, sarcastic, grumpy, foul-mouthed nobody who thinks he knows a thin
 I'm also short tempered and have little patience for information security <a href="http://attrition.org/errata/charlatan/" target="_blank">charlatans</a>.
 <p>
 <h1>What do you do for a living?</h1>
-So glad you asked! This is what I do:
+So glad you asked! This is what I do: <br /><br />
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/2-OQhot_ml0">
 </iframe> 
@@ -22,21 +22,21 @@ Really? You might want to reconsider that. <br />
 If you absolutely want to set yourself up for some kind of sarcastic abuse, you can contact me in the following ways:<br/>
 <p>
 <div id="container">
-	<div class="leftimg">
+	<div class="leftimg" style="clear:both;">
     <img src="/public/images/Twitter-bird-small.jpg" />
 	</div>
 	<div class="righttext">
 	<a href="https://twitter.com/Ar0xA" target="_blank">@Ar0xA</a>
     </div>
 	<br/>
-	<div class="leftimg">
+	<div class="leftimg" style="clear:both;">
         <img src="/public/images/email-shadow.png" />
 	</div>
-	<div class="righttext">
+	<div class="righttext" >
 	<a href="mailto:ar0xa@protonmail.com?SUBJECT=TLDR%20reaction">ar0xa@protonmail.com</a>
 	</div>
 	<br/>
-	<div class="leftimg">
+	<div class="leftimg" style="clear:both;">
         <img src="/public/images/keybase_logo.png" />
 	</div>
 	<div class="righttext">
@@ -44,4 +44,6 @@ If you absolutely want to set yourself up for some kind of sarcastic abuse, you 
 	</div>
 	<br />
 </div>
+<div style="clear:both;">
 Another place you can almost always find me is on <a href="irc://chat.freenode.net">Freenode</a> in the <a href="https://www.vulnhub.com/">#vulnhub</a> channel.
+</div>
