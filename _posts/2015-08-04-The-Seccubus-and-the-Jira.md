@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Seccubus and the Jira
-comments: true
+description: making Seccubus talk to Jira by creating tickets for findings
 ---
 
 In a land, not that far away, a little mouse worked for a big wealthy lizard. This lizard had many workers that made little machines. Those machines helped people do their job better. The little mouse however, did not make machines.
