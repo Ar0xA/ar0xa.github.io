@@ -7,7 +7,7 @@ description: This is the about page
   Hey there! You are curious about me? Shame on you.
 </p>
 <h1>Who are you?</h1>
-Just a random, sarcastic, grumpy, foul-mouthed nobody who thinks he knows a thing or two about security. A gamer, a dad, a smart-ass, a book lover and anime freak. <br />
+Just a random, sarcastic, grumpy, guy who thinks he knows a thing or two about security. A gamer, a dad, a smart-ass, a book lover and anime fan. <br />
 <br />
 I'm also short tempered and have little patience for information security <a href="http://attrition.org/errata/charlatan/" target="_blank">charlatans</a>.
 <p>
@@ -23,7 +23,7 @@ Q: Can I contact you for a job offering? <br />
 A: Unless the offer includes a Bentley with chauffeur and all-you-can-eat Friday sushi: <u><b>absolutely not</b></u>!<br />
 <br />
 Q: Are you really so rude and sarcastic? <br />
-A: No, but I need a place to vent. This is it. Deal with it. <br />
+A: No, I'm actually considered sort of a nice guy, but I need a place to vent. This is that place. <br />
 <br />
 Q: Why no Disqus or something to allow comments? <br />
 A: If you have questions, disagree or agree with something I wrote here enough to contact me, use twitter or email (see below).<br />
