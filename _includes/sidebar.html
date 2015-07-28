@@ -3,13 +3,7 @@
     <div class="sidebar-about">
       <h1>{{ site.title }}</h1>
       <p class="lead">{{ site.description }}</p>
-	  
-	  <!-- twitter feed -->
-	  <!--
-	  <div class="twitbox"> 
-	      <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/Ar0xA" data-widget-id="619835083629953024">Tweets by @Ar0xA</a>
-          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      </div>  -->  
+
 	    <div class="twitbox">
 		Recent posts:<br/>
 	        <ul >  
@@ -29,7 +23,9 @@
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
       </li>
-
+      <li class="sidebar-nav-item{% if page.title == "RSS" %} active{% endif %}">
+        <a href="/">RSS</a>
+      </li>
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
