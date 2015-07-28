@@ -59,7 +59,7 @@ function displayNotification(c_action) {
 }
 
 function doAccept() {
-    setCookie("ILoveAr0xA", null, 365);
+    setCookie("ILoveAr0xA", "ILoveYouLongTime", 365);
     location.reload(true);
 }
 
