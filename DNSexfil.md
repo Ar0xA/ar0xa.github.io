@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blag
 title: DNS exfil
 description: DNS exfiltration with python and scapy
 ---
