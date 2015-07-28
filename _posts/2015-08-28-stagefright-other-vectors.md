@@ -4,7 +4,7 @@ title: Stagefright; the not focused on vectors are more scary
 description: While the stagefright MMS vector is dangerous, there are more worrying ones.
 ---
 
-Well, the internet exploded..again. This time the virtual a-bomb was dropped by <a href="https://twitter.com/jduck" target="_blank">@jduck</a>. He discovered a Remote Code Execution vulnerability in a library of Android that handles processing images and graphics called <a href="http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/" target="_blank">Stagefright</a>. It's bad, quite bad (estimated 950 million devices vulnerable), despite that it doesn't give you RCE root access to a device straight up.
+Well, the internet exploded..again. This time the virtual a-bomb was dropped by <a href="https://twitter.com/jduck" target="_blank">@jduck</a>. He discovered a Remote Code Execution vulnerability in a library of Android that handles processing media called <a href="http://blog.zimperium.com/experts-found-a-unicorn-in-the-heart-of-android/" target="_blank">Stagefright</a>. It's bad, quite bad (estimated 950 million devices vulnerable), despite that it doesn't give you RCE root access to a device straight up.
 
 ![jduck_no_root]({{ site.url }}/public/images/stagefright/jduck_no_root.JPG)
 
