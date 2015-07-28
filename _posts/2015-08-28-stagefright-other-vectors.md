@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stagefright; the forgotten vectors are more scary
+title: Stagefright; the not focused on vectors are more scary
 description: While the stagefright MMS vector is dangerous, there are more worrying ones.
 ---
 
