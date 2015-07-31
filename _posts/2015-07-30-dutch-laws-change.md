@@ -6,3 +6,9 @@ description: Some thoughts about the responsible disclosure policies and the cha
 
 In 2013 the Dutch government published an "Advice for responsible disclosure" (source: (Dutch) <a href="http://www.rijksoverheid.nl/onderwerpen/cybercrime/documenten-en-publicaties/rapporten/2013/01/04/leidraad-om-te-komen-tot-een-praktijk-van-responsible-disclosure.html" target="_blank">leidraad responsible disclosure</a>). The idea is that if whoever finds a bug adheres to the rules of the responsible disclosure policy of whatever entity he is looking at, he or she will not prosecuted by the entity compromised.
 
+We are 2 years further and while some progress has been made as far as companies and government institutions that have a public responsible disclosure policy, it's unclear how effective it really is.
+
+Not going into the policy itself, there is 1 big glaring issue that was brought up almost immediately after its release. Despite having a responsible disclosure policy, it's not binding. The compromised entity is still free to press charges if it feels the need and the Dutch government might still press charges no matter what the entity wants. 
+
+Now my point: the Dutch law will change. This all in preperation of the new European laws regarding protection of data that are being prepared right now. In januari 2016, Dutch companies and institutions will already be required to notify the authority responsible for handling the protection of personal information when a data-leak occurs or is having thought to have occured. (source: (Dutch) <a href="http://www.rijksoverheid.nl/nieuws/2015/07/10/meldplicht-datalekken-en-uitbreiding-boetebevoegdheid-cbp-1-januari-2016-van-kracht.html" target="_blank">www.rijksoverheid.nl</a>)
+
