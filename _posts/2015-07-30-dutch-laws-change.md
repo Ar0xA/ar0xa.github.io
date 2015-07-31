@@ -23,7 +23,7 @@ That means research needs to be done to figure out the exact impact between the 
 [Dutch]
 ![twitter brenno response]({{ site.url }}/public/images/dutchlaw/twitter_brenno.JPG)
 
-In English:
+In English:<br />
 Ar0xA: <i>@brenno do you know if anyone has done research regarding the advice of responsible disclosure in relation to the new law notification data-leaks 2016?</i><br />
 Brenno de Winter: <i>@Ar0xA I am busy with that for my new book</i>
 
