@@ -10,8 +10,7 @@ We are 2 years further and while some progress has been made as far as companies
 
 Not going into the policy itself, there is 1 big glaring issue that was brought up almost immediately after its release. Despite having a responsible disclosure policy, it's not binding. The compromised entity is still free to press charges if it feels the need and the Dutch government might still press charges no matter what the entity wants. 
 
-Now my point: the Dutch law will change. This all in preperation of the new European laws regarding protection of data that are being prepared right now. In januari 2016, Dutch companies and institutions will already be required to notify the authority responsible for handling the protection of personal information when a data-leak occurs or is having thought to have occured. (source: [Dutch] <a href=
-"http://www.rijksoverheid.nl/nieuws/2015/07/10/meldplicht-datalekken-en-uitbreiding-boetebevoegdheid-cbp-1-januari-2016-van-kracht.html" target="_blank">www.rijksoverheid.nl</a>)
+Now my point: the Dutch law will change. This all in preperation of the new European laws regarding protection of data that are being prepared right now. In januari 2016, Dutch companies and institutions will already be required to notify the authority responsible for handling the protection of personal information when a data-leak occurs or is having thought to have occured. (source: [Dutch] <a href="http://www.rijksoverheid.nl/nieuws/2015/07/10/meldplicht-datalekken-en-uitbreiding-boetebevoegdheid-cbp-1-januari-2016-van-kracht.html" target="_blank">www.rijksoverheid.nl</a>)
 
 Currently this institution is called [Dutch] College Bescherming Persoonsgevens (CBP). The new name in 2016 will be [Dutch] Autoriteit Persoonsgegevens. This institution will then have considerable power and can fine an entity for a considerable amount: € 810.000 or 5% of total global revenue. 
 
