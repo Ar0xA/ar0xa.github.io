@@ -24,7 +24,7 @@ That means research needs to be done to figure out the exact impact between the 
 ![twitter brenno response]({{ site.url }}/public/images/dutchlaw/twitter_brenno.JPG)
 
 In English:
-Ar0xA: <i>@brenno do you know if anyone has done research regarding the advice of responsible disclosure in relation to the new law notification data-leaks 2016?</i>
+Ar0xA: <i>@brenno do you know if anyone has done research regarding the advice of responsible disclosure in relation to the new law notification data-leaks 2016?</i><br />
 Brenno de Winter: <i>@Ar0xA I am busy with that for my new book</i>
 
 All in all, while I personally think the change in the law is fair and just there really needs to be an official responsible disclosure policy, protected by law. This responsible disclosure policy should be made such that it protects both the person finding the vulnerability and the entity it was found. It should allow security researches to safely disclose the vulnerability and the entities so that if they handled the disclosure correctly neither will get prosecuted. 
