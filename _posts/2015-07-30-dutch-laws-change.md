@@ -12,3 +12,9 @@ Not going into the policy itself, there is 1 big glaring issue that was brought 
 
 Now my point: the Dutch law will change. This all in preperation of the new European laws regarding protection of data that are being prepared right now. In januari 2016, Dutch companies and institutions will already be required to notify the authority responsible for handling the protection of personal information when a data-leak occurs or is having thought to have occured. (source: (Dutch) <a href="http://www.rijksoverheid.nl/nieuws/2015/07/10/meldplicht-datalekken-en-uitbreiding-boetebevoegdheid-cbp-1-januari-2016-van-kracht.html" target="_blank">www.rijksoverheid.nl</a>)
 
+Currently this institution is called College Bescherming Persoonsgevens (CBP). The new name in 2016 will be: Autoriteit Persoonsgegevens. This institution will then have considerable power and can fine an entity for a considerable amount: € 810.000 or 5% of total global revenue. 
+
+This made me think: how will this new law impact the currently existing responsible disclosure policies? 
+
+My gut instinct would be to think that it's no longer a good idea to have a responsible disclosure policy, mainly because you might be setting yourself up for a big fine even if the researcher adhered to your responsible disclosure policy. I mean, it's still a data-leak in the sense of the law; so you will still need to notify the authority. Not just that, chances are that this authority will actively try to pursue the one who disclosed the vulnerability. 
+
