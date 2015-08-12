@@ -36,9 +36,9 @@ Now because any form of response, from really...anyone at all, was lacking I thi
 
 <p class="message">
 BORSE [<b>boh</b>-rse] 
-<br>
+<br><br>
 1. To question wether something is better or worse.
-<br>
+<br><br>
 Example usage: <br>
 <i>Looks like Oracle has now pulled this blog post - does that make it borse?!</i><br>
 <i>I'm not sure if the new Flash update makes it borse.</i>
