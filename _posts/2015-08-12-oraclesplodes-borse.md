@@ -48,6 +48,4 @@ And to all you naysayers about this awesome new word, I leave this final message
 
 <img src="/public/images/oraclesplodes/pointing.gif" />
 
-#dropsmic
-
-
+tl;dr: Oracle sucks but borse is an awesome new word
