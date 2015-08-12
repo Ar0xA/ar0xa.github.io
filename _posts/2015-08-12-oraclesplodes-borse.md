@@ -5,10 +5,9 @@ description: Oracle's CISO made the web explode and making up words
 ---
 Surprise, Frech Fries, All Lies! The internet exploded again because someone was wrong.
 
-After jduck's recent rise to infosec rockstar status, which obviously made some people envious
+After jduck's recent rise to infosec rockstar status, which obviously made some people envious (
 <img src="/public/images/oraclesplodes/purehateenvious.JPG" /> 
-
-It was only a matter of time before the infosec community found a new target. We did in less than 10 days and as a result this was the infosec community last night:
+) it was only a matter of time before the infosec community found a new target. We did in less than 10 days and as a result this was the infosec community last night:
 
 <img src="https://imgs.xkcd.com/comics/duty_calls.png" />
 
