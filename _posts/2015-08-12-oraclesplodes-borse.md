@@ -11,7 +11,7 @@ After jduck's recent rise to infosec rockstar status, which obviously made some 
 
 <img src="https://imgs.xkcd.com/comics/duty_calls.png" />
 
-That was because one of infosec's favourite targets, <a href="http://residentevil.wikia.com/wiki/Umbrella_Corporation" link="_blank">Umbrella corp'</a>s nefarious little sister Oracle has a Chief Information Security Officer by the name of Mary Ann Davidson made a little blog post that was somewhat naive. The post has since been removed, but a copy can be found on the <a href="https://web.archive.org/web/20150811052336/https://blogs.oracle.com/maryanndavidson/entry/no_you_really_can_t" target="_blank">web.archive.org</a>. What goes on the internet, stays on the internet after all.
+That was because one of infosec's favourite targets, <a href="http://residentevil.wikia.com/wiki/Umbrella_Corporation" link="_blank">Umbrella corp'</a>s nefarious little sister Oracle, has a Chief Information Security Officer by the name of Mary Ann Davidson made a little blog post that was somewhat naive. The post has since been removed, but a copy can be found on the <a href="https://web.archive.org/web/20150811052336/https://blogs.oracle.com/maryanndavidson/entry/no_you_really_can_t" target="_blank">web.archive.org</a>. What goes on the internet, stays on the internet after all.
 
 Now, the infosec community jumped on this like a bazzilion <a href="https://www.youtube.com/watch?v=teYckpqUiPs" target="_blank">Nelson's</a> and pointed out that this was a somewhat odd view of how vulnerability research and bug hunting worked.
 
