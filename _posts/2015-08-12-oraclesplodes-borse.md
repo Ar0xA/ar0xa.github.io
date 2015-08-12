@@ -8,7 +8,7 @@ Surprise, Frech Fries, All Lies! The internet exploded again because someone was
 After jduck's recent rise to infosec rockstar status, which obviously made some people envious:
 <img src="/public/images/oraclesplodes/purehateenvious.JPG" /> 
 
-It was only a matter of time before the infosec community found a new target. We did in less than 10 days, and this was the infosec community last night:
+It was only a matter of time before the infosec community found a new target. We did in less than 10 days and as a result this was the infosec community last night:
 
 <img src="https://imgs.xkcd.com/comics/duty_calls.png" />
 
@@ -26,7 +26,7 @@ My personal favourite is this one:
 <img src="/public/images/oraclesplodes/fanfic1.JPG" />
 
 Not afraid to throw more cold water on the burning oil @addelindh then posts about a trivial javascript XSS in the Oracle Blog site:
-<img src="/public/images/oraclesplodes/fanfic1.JPG" />
+<img src="/public/images/oraclesplodes/oraclexss.JPG" />
 
 At this point, Troy Hunt, undeniable blog expert, wondered if the removal of Mary Ann Davidson's blog post was better or worse, afterwhich I coined the word <u>Borse</u>.
 
