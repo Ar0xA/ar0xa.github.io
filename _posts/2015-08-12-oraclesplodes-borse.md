@@ -23,14 +23,14 @@ In case you were in an alcohol induced coma after DefCon (seriously, social medi
 The naivety from this statement made me <a href="https://www.urbandictionary.com/define.php?term=lol&defid=1406597" target="_blank">lol</a> and in response the hashtag <a href="https://twitter.com/search?src=typd&q=%23oraclefanfic" target="_blank">#oraclefanfic</a> is now solely devoted to making fun of the fact that something can't be abused because it's against the End User Licence Agreement.
 
 My personal favourite is this one:
-<img src="/images/oraclesplodes/fanfic1.JPG" />
+<img src="/public/images/oraclesplodes/fanfic1.JPG" />
 
 Not afraid to throw more cold water on the burning oil @addelindh then posts about a trivial javascript XSS in the Oracle Blog site:
-<img src="/images/oraclesplodes/fanfic1.JPG" />
+<img src="/public/images/oraclesplodes/fanfic1.JPG" />
 
 At this point, Troy Hunt, undeniable blog expert, wondered if the removal of Mary Ann Davidson's blog post was better or worse, afterwhich I coined the word <u>Borse</u>.
 
-<img src="/images/oraclesplodes/troyblogs.JPG" />
+<img src="/public/images/oraclesplodes/troyblogs.JPG" />
 
 Now because any form of response, from really...anyone at all, was lacking I think I should dedicate some time to explain what <u>Borse</u> means and how to use it.
 
@@ -46,7 +46,7 @@ Example usage:
 
 And to all you naysayers about this awesome new word, I leave this final message
 
-<img src="/images/oraclesplodes/pointing.gif" />
+<img src="/public/images/oraclesplodes/pointing.gif" />
 
 #dropsmic
 
