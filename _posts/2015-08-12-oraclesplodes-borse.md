@@ -6,11 +6,11 @@ description: Oracle's CISO made the web explode and making up words
 Surprise, Frech Fries, All Lies! The internet exploded again because someone was wrong.
 
 After jduck's recent rise to infosec rockstar status, which obviously made some people envious:
-<img src="images/oraclesplodes/purehateenvious.JPG" /> 
+<img src="/public/images/oraclesplodes/purehateenvious.JPG" /> 
 
 It was only a matter of time before the infosec community found a new target. We did in less than 10 days, and this was the infosec community last night:
 
-<img src="https://xkcd.com/386/" />
+<img src="https://imgs.xkcd.com/comics/duty_calls.png" />
 
 That was because one of infosec's favourite targets, <a href="http://residentevil.wikia.com/wiki/Umbrella_Corporation" link="_blank">Umbrella corp'</a>s nefarious little sister Oracle has a Chief Information Security Officer by the name of Mary Ann Davidson made a little blog post that was somewhat naive. The post has since been removed, but a copy can be found on the <a href="https://web.archive.org/web/20150811052336/https://blogs.oracle.com/maryanndavidson/entry/no_you_really_can_t" target="_blank">web.archive.org</a>. What goes on the internet, stays on the internet after all.
 
