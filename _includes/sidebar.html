@@ -15,6 +15,21 @@
 	           </li>  
 	        {% endfor %}  
 	        </ul>
+			
+  {% if paginator.next_page %}
+    <a  href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span>Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a  href="/">Newer</a>
+    {% else %}
+      <a  href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span>Newer</span>
+  {% endif %}
 	    </div>
 	
     </div>
