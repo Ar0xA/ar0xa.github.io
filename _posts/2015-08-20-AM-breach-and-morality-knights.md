@@ -29,7 +29,7 @@ So before going on in various social media about how those people "had it coming
 
 Another disturbing trend seems to be that some individuals seem to be interested in outing as many people as possible from whatever demographic they find interesting. Just one example of a now suspended account:
 
-<img src="public/images/AM/twitterhole.JPG"/>
+<img src="/public/images/AM/twitterhole.JPG"/>
 
 But there are more of these type of accounts and sites, like the now suspended <a href="http://checkashleymadison.com/" target="_blank">http://checkashleymadison.com/</a>.
 
