@@ -78,7 +78,7 @@ a:focus {
 
 /* special popup on mouse over */
 a.info{
-    position:relative; /*this is the key*/
+/*   position:relative; /*this is the key*/ 
     color:#000;
     top:100px;
     left:50px;

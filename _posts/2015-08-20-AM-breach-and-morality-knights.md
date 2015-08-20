@@ -24,5 +24,6 @@ Another disturbing trend seems to be that some individuals seem to be interested
 But there are more of these type of accounts and sites, like the now suspended <a href="http://checkashleymadison.com/" target="_blank">http://checkashleymadison.com/</a>.
 
 Personally I think Troy Hunt with his <a href="http://haveibeenpwned.com" target="_blank">haveibeenpwned.com</a> does it the best. You need to verify your email address on the site, and you will get notified if you are in the database, without making it publicy searchable.
+<br />
 
 
