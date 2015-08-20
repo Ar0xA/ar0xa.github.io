@@ -15,7 +15,7 @@ window.onmousemove = function (e) {
 </script>
 While I am not afraid to jump on any bandwagons, I'm not very comfortable touching the data released of the Ashley Madison breach.
 
-So instead I will focus on something that bothers me from people responding to the breach. You see, a lot of <a href="#" class="info">morality knights <span id="tooltip-span">morality knight; someone who without much support, fanatically fights for what he/she considers a moral purpose</span></a> have stood up since the <a href="http://www.wired.com/2015/08/happened-hackers-posted-stolen-ashley-madison-data/" target="_blank">public release</a> of the data.
+So instead I will focus on something that bothers me from people responding to the breach. You see, a lot of <a href="#" class="info">morality knights <span id="tooltip-span">morality knight; someone who without much support, fanatically fights for what he/she considers a rightful moral purpose.</span></a> have stood up since the <a href="http://www.wired.com/2015/08/happened-hackers-posted-stolen-ashley-madison-data/" target="_blank">public release</a> of the data.
 
 What I find most disturbing about a lot of the reactions is that aparently it's fine to release personal information of about 37 million accounts if this means that some cheaters would get caught. Basically these morality-knights are making the statement:
 
