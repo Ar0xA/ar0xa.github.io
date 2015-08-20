@@ -5,7 +5,7 @@ description: about the AM breach
 ---
 While I am not afraid to jump on any bandwagons, I'm not very comfortable touching the data released of the Ashley Madison breach.
 
-So instead I will focus on something that bothers me from people responding to the breach. You see, a lot of <a href="#" class="info">morality knights<span>morality knight; someone who without much support, fanatically fights for what he/she considers a moral purpose</span></a> have stood up since the <a href="http://www.wired.com/2015/08/happened-hackers-posted-stolen-ashley-madison-data/" target="_blank">public release</a> of the data.
+So instead I will focus on something that bothers me from people responding to the breach. You see, a lot of <a href="#" class="info">morality knights <span>morality knight; someone who without much support, fanatically fights for what he/she considers a moral purpose</span></a></div> have stood up since the <a href="http://www.wired.com/2015/08/happened-hackers-posted-stolen-ashley-madison-data/" target="_blank">public release</a> of the data.
 
 What I find most disturbing about a lot of the reactions is that aparently it's fine to release personal information of about 37 million accounts if this means that some cheaters would get caught. Basically these morality-knights are making the statement:
 
@@ -19,7 +19,7 @@ So before going on in various social media about how those people "had it coming
 
 Another disturbing trend seems to be that some individuals seem to be interested in outing as many people as possible from whatever demographic they find interesting. Just one example of a now suspended account:
 
-<img src="/images/AM/twitterhole.JPG"/>
+<img src="public/images/AM/twitterhole.JPG"/>
 
 But there are more of these type of accounts and sites, like the now suspended <a href="http://checkashleymadison.com/" target="_blank">http://checkashleymadison.com/</a>.
 
