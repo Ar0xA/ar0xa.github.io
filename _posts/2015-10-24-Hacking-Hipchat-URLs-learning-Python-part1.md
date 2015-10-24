@@ -10,7 +10,7 @@ Disclaimer: I'm not a programmer, nor did I try to make the code I wrote neat. I
 <h1>Intro</h1>
 Atlassian products, especially Jira and Confluence, are very popular. There are some serious benefits to using various products together since the integrations of the products into each other is pretty well done.
 
-One of these products is a chat client named <a href="http://www.hipchat.com" target="_blank">HipChat</a> . This chat program allows some neat features through its <a href="https://www.hipchat.com/docs/api" target="_blank">decapricated</a> and <a href="https://www.hipchat.com/docs/apiv2" target="_blank">new</a> API, like sending a notification to a room if a build fails or a new ticket is created.
+One of these products is a chat client named <a href="http://www.hipchat.com" target="_blank">HipChat</a>. This chat program allows some neat features through its <a href="https://www.hipchat.com/docs/api" target="_blank">depricated</a> and <a href="https://www.hipchat.com/docs/apiv2" target="_blank">new</a> API, like sending a notification to a room if a build fails or a new ticket is created.
 
 However, HipChat is a little underdeveloped compared to some other products. One of the biggest possible security issues I saw was that it allows for rooms to be set to allow guests, meaning anyone who would know the "random"-URL would be able to visit the room. There is currently no way to put a password on the guest-enabled room.
 
@@ -29,7 +29,7 @@ These characters could be anything from a-z, A-Z and 0-9, in what appeared to be
 
 There seems to be a download for the server component at <a href="https://www.hipchat.com/server/get-it" target="_blank">https://www.hipchat.com/server/get-it</a> but to be honest, there is no guarantee that it's 100% the same code that they run themselves. Still good to know though.
 
-The decapricated API still works fine and though limited in some cases, it can do the same functionality faster than in the new v2 API. However a lot of functionality is also missing, which could be a pain.
+The depricated API still works fine and though limited in some cases, it can do the same functionality faster than in the new v2 API. However a lot of functionality is also missing, which could be a pain.
 
 <h2>Try 1: The hard way</h2>
 
@@ -81,7 +81,7 @@ Thus, I decided to try play it smarter.
 
 Having failed at the stupid, I figured that I should generate a lot of rooms and store their names to see if I could analyze those. My idea was that after analysis I could put weights on certain characters for certain positions in the URL, so that the characters that were used more often would have a higher chance to pop up in a not-so-randomly-generated URL I could then create.
 
-Having read the API docs, I figured I should start with the old decapricated API because it was more straight-forward and it looked faster, if less flexible than the new API. 
+Having read the API docs, I figured I should start with the old depricated API because it was more straight-forward and it looked faster, if less flexible than the new API. 
 
 Having generated an API key and doing a trial run, I hit a problem...API calls are <a href="https://www.hipchat.com/docs/api/rate_limiting" target="_blank">rate-limited</a>. You could pretty much do only 100 calls within 5 minutes. After that you would have to wait for a reset.
 
