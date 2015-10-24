@@ -14,10 +14,10 @@ One of these products is a chat client named <a href="http://www.hipchat.com> ta
 
 However, HipChat is a little underdeveloped compared to some other products. One of the biggest possible security issues I saw was that it allows for rooms to be set to allow guests, meaning anyone who would know the "random"-URL would be able to visit the room. There is currently no way to put a password on the guest-enabled room.
 
-This got me thinking. 
-- Exactly how random is that URL? 
-- How likely is it going to be that a random person finds your room?
-- Is it possible to find a room with guest access within 4 hours?
+This got me thinking:<br />
+- Exactly how random is that URL? <br />
+- How likely is it going to be that a random person finds your room?<br />
+- Is it possible to find a room with guest access within 4 hours?<br />
 
 Why 4 hours? I have no idea, it seemed like a reasonably short time period. If the generation of the URL's is flawed it should be possible.
 
