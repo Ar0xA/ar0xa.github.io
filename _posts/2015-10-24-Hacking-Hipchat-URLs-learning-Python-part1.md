@@ -10,7 +10,7 @@ Disclaimer: I'm not a programmer, nor did I try to make the code I wrote neat. I
 <h1>Intro</h1>
 Atlassian products, especially Jira and Confluence, are very popular. There are some serious benefits to using various products together since the integrations of the products into each other is pretty well done.
 
-One of these products is a chat client named <a href="http://www.hipchat.com> target="_blank">HipChat</a> . This chat program allows some neat features through its <a href="https://www.hipchat.com/docs/api" target="_blank">decapricated</a> and <a href="https://www.hipchat.com/docs/apiv2" target="_blank">new</a> API, like sending a notification to a room if a build fails or a new ticket is created.
+One of these products is a chat client named <a href="http://www.hipchat.com" target="_blank">HipChat</a> . This chat program allows some neat features through its <a href="https://www.hipchat.com/docs/api" target="_blank">decapricated</a> and <a href="https://www.hipchat.com/docs/apiv2" target="_blank">new</a> API, like sending a notification to a room if a build fails or a new ticket is created.
 
 However, HipChat is a little underdeveloped compared to some other products. One of the biggest possible security issues I saw was that it allows for rooms to be set to allow guests, meaning anyone who would know the "random"-URL would be able to visit the room. There is currently no way to put a password on the guest-enabled room.
 
