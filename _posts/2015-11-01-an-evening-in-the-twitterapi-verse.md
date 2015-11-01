@@ -1,6 +1,6 @@
 An evening spend in the Twitterverse API
 
-<h2>intro</h2>
+<h2>Into the Twitterverse, number 2!</h2>
 I'm an avid user of Twitter, mostly because it's generally a great way to keep in touch about whats happening in the infosec world. You can't keep an eye on everything yourself, but if you follow the right people there is hardly anything interesting that you will miss. Obviously following too many people just ends up in random noise, so I try avoid that.
 
 Now I've never done anything with the Twitter API, but I was kind of curious as to how it would work, so I figured I'd spend an evening poking at it.
@@ -166,7 +166,7 @@ The main loop hardly changed, but if a http:// or https:// was detected, a new f
 
 Now there were a few interesting issues with this, the most notable being that Twitter has it's own shortening service to make usage of URL's in tweets more optimal. Initially I did a *requests.get(URL)* but that already returned the actual page, not the redirection reply from Twitter. Looking at the documentation for requests, it was rather obvious I would need to use the "allow_redirection=False" optional parameter. Using this I indeed would get a nice set of headers from the Twitter redirection service without already retrieving the page it redirected to:
 
-<img src="/images/twitterAPI/pastebinURL.PNG" />
+<img src="/public/images/twitterAPI/pastebinURL.PNG" />
 
 Extracting the URL and checking if it's Pastebin is trivial now! Once we knew it was Pastebin or not, we would need the random characters after the domain, to request the RAW format of the message to download and encode/decode. This created the following code:
 
