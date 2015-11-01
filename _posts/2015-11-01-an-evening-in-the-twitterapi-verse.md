@@ -1,4 +1,8 @@
-An evening spend in the Twitterverse API
+---
+layout: post
+title: An evening spend in the Twitterverse API
+description: Twitter API Postbin API fun
+---
 
 <h2>Into the Twitterverse, number 2!</h2>
 I'm an avid user of Twitter, mostly because it's generally a great way to keep in touch about whats happening in the infosec world. You can't keep an eye on everything yourself, but if you follow the right people there is hardly anything interesting that you will miss. Obviously following too many people just ends up in random noise, so I try avoid that.
