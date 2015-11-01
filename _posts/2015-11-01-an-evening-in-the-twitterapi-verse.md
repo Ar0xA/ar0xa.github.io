@@ -17,11 +17,11 @@ Don't bother looking on <a href="https://dev.twitter.com" target="_blank">https:
  
 Trying to create the application, make me hit the first snag:
 
-<img src="/images/twitterAPI/createapp.PNG" />
+<img src="/public/images/twitterAPI/createapp.PNG" />
 
 Well crap...they want my mobile number to be a dev? I find this rather lame and excessive, but not to be denied. I did add my phone number to my account after which I could create a new application:
 
-<img src="/images/twitterAPI/applicationmade.PNG" />
+<img src="/public/images/twitterAPI/applicationmade.PNG" />
 
 <h2>Coding!</h2>
 From the example I knew that if I wanted to use this API on my own account (unlike when you make an application to authorize other people) I would need to have a Consumer Key (API), Consumer Secret (API Secret), a Access Token and Access Token Secret. These can all be made and generated on the "Keys and Access Tokens" tab in the same page.
@@ -44,7 +44,7 @@ print api.VerifyCredentials()
 
 This proved to be easy with the GitHub example, but I noticed the data returned was much more informative than mentioned in the example:
 
-<img src="/images/twitterAPI/auth1.PNG" />
+<img src="/public/images/twitterAPI/auth1.PNG" />
 
 I assume this has to do with the profile changes that happened a while ago, and functionally it doesn't really change anything. So I figured the program-flow should be something like this:
 
