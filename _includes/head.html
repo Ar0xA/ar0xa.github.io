@@ -1,40 +1,34 @@
 <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords" content="{{ page.title }}, {% for tag in page.tags %}{{ tag }},{% endfor %} {{ site.title }}" />
+    <meta name="description" content="{{ page.title }}, {% for tag in page.tags %}{{ tag }},{% endfor %} {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  {% if page.description %}
-      <meta name="description" content="{{ page.description}}" />
-  {% endif %}
+    <link rel="shortcut icon" type="image/x-icon" media="screen" href="{{ '/static/favicon.ico' | prepend: site.baseurl | prepend: site.url}}" />
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}"  />
 
-  <title>
-    {% if page.title %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% else %}
-      {{ site.title }} &middot; {{ site.tagline }}
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{ '/static/octicons/octicons.css' | prepend: site.baseurl | prepend: site.url}}" />
+
+    {% if page.date %}
+    <link rel="stylesheet" type="text/css" href="{{ '/static/css/highlight.css' | prepend: site.baseurl | prepend: site.url}}" />
     {% endif %}
-  </title>
 
-  <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/poole.css" type="text/css">
-  <link rel="stylesheet" href="/public/css/shCore.css" type="text/css" />
-  <link rel="stylesheet" href="/public/css/shThemeDefault.css" type="text/css"> 
-  <link rel="stylesheet" href="/public/css/hyde.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="{{ '/static/css/style.css' | prepend: site.baseurl | prepend: site.url}}" />
+    {% for style in page.styles %}<link rel="stylesheet" type="text/css" href="{{ '/static/css/' | append: style | prepend: site.baseurl | prepend: site.url}}" />
+    {%endfor%}
 
-  <!-- JS -->
-  <script language="JavaScript" type="text/javascript" src="/public/js/cookiewarning.js"></script>
-  <script src="/public/js/shCore.js" type="text/javascript" ></script>
-  <script src="/public/js/shBrushBash.js" type="text/javascript" ></script>
-  <script src="/public/js/shBrushPython.js" type="text/javascript" ></script>
-  <script src="/public/js/shBrushPhp.js" type="text/javascript" ></script>
+  <link rel="stylesheet" href="/static/css/shCore.css" type="text/css" />
+  <link rel="stylesheet" href="/static/css/shThemeDefault.css" type="text/css">
+  <script src="/static/js/shCore.js" type="text/javascript" ></script>
+  <script src="/static/js/shBrushBash.js" type="text/javascript" ></script>
+  <script src="/static/js/shBrushPython.js" type="text/javascript" ></script>
+  <script src="/static/js/shBrushPhp.js" type="text/javascript" ></script>
   <script type="text/javascript">
      SyntaxHighlighter.all()
-  </script> 
-  
-  <!-- Icons -->
-  <link rel="shortcut icon" href="/public/favicon.ico">
+  </script>
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>

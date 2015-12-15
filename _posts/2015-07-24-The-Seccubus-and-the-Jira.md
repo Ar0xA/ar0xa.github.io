@@ -2,6 +2,8 @@
 layout: post
 title: The Seccubus and the Jira
 description: making Seccubus talk to Jira by creating tickets for findings
+post_author: Ar0xA
+tags: seccubus jira atlassian api python
 ---
 
 In a land, not that far away, a little mouse worked for a big wealthy lizard. This lizard had many workers that made little machines. Those machines helped people do their job better. The little mouse however, did not make machines.

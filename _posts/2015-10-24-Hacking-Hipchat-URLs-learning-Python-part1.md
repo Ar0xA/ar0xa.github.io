@@ -2,6 +2,8 @@
 layout: post
 title: Scratching an itch, hacking HipChat URLs & learning Python, part 1
 description: Part 1 of my curiosity about HipChat randomly generated URL's
+post_author: Ar0xA
+tags: python hipchat
 ---
 <p class="message">
 Disclaimer: I'm not a programmer, nor did I try to make the code I wrote neat. It mostly works, but it's hacked together that's why I'm a hacker not a programmer. I guess for entertainment value, it can show you my thought process as I work through a program.

@@ -1,15 +1,26 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="theme-base-09">
+<body>
+<div class="main">
 
-    {% include sidebar.html %}
+{% include header.html %}
 
-    <div class="content container">
-      {{ content }}
+    <div class="container">
+        {{ content }}
     </div>
 
-  </body>
+    <div class="page-scrollTop" data-toggle="tooltip" data-placement="top" title="Top">
+        <a href="javascript:void(0);">
+            <div class="arrow"></div>
+            <div class="stick"></div>
+        </a>
+    </div>
+</div>
+
+{% include footer.html %}
+
+</body>
 </html>

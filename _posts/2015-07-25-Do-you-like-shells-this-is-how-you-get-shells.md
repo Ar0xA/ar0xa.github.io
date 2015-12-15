@@ -2,6 +2,8 @@
 layout: post
 title: Do you like shells? This is how you get shells.
 description: How easy is it to evade anti-virus, and go around anti-exploit and anti-keylog tools
+post_author: Ar0xA
+tags: hacking shellter evasion antivirus
 ---
 
 Every security professional knows that it's impossible to secure a system the full 100%. But we try. We use anti-virus, anti-exploit programs like <a href="https://support.microsoft.com/en-us/kb/2458544" target="_blank">EMET</a>, anti-malware programs like <a href="https://www.malwarebytes.org/" target="_blank">Malwarebytes</a>. Or perhaps even anti-keyboard logging applications like <a href="https://www.zemana.com/AntiLogger" target="_blank">Zemana's AntiLogger</a> and a password manager like <a href="https://lastpass.com/" target="_blank">LastPass</a>.
@@ -43,24 +45,24 @@ The only thing that worked reliably ended up being the anti-keylogging tool.
 We need a binary to send to someone. The binary needs to be 32bit but that's no problem; in this case I send my fictional buddy (everyone knows I have no friends) Putty, a well known windows terminal program used to connect to Linux servers over SSH.
 
 I download putty and Shellter. After unpacking Shellter on my Kali machine; I run it and use the default settings to backdoor putty.exe with Meterpreters reverse_tcp payload:
-![shellter1]({{ site.url }}/public/images/thisishowyougetshells/shellter1.JPG)
-![shellter1]({{ site.url }}/public/images/thisishowyougetshells/shellter2.JPG)
-![shellter1]({{ site.url }}/public/images/thisishowyougetshells/shellter3.JPG)
-![shellter1]({{ site.url }}/public/images/thisishowyougetshells/shellter4.JPG)
+![shellter1]({{ site.url }}/static/img/thisishowyougetshells/shellter1.JPG)
+![shellter1]({{ site.url }}/static/img/thisishowyougetshells/shellter2.JPG)
+![shellter1]({{ site.url }}/static/img/thisishowyougetshells/shellter3.JPG)
+![shellter1]({{ site.url }}/static/img/thisishowyougetshells/shellter4.JPG)
 
 Once done, I email my buddy the putty.exe (as a .zip). And start up my Meterpreter's multi/handler:
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf1.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf1.JPG)
 
 Now I wait, and wait. Until my buddy runs the putty.exe on his fully "secured" system. Until:
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf2.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf2.JPG)
 
 Thanks buddy! (he does complain that the application didn't start by the way.)
 
 Curious to see what I privileges I have I do getprivs:
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf3.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf3.JPG)
 
 What the hell? Does that guy run as admin or something? Not that I mind though if he did ;) so, lets try the magical "getsystem":
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf4.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf4.JPG)
 
 Yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all in a matter of minutes and the fact that my buddy was willing to run a program I send him. Not only that, because he runs as administrator, I could even get full system user. And you know why?
 
@@ -73,27 +75,27 @@ Yeah, you got that right, I managed to evade anti-virus, anti exploit tools, all
 * The idiot ran it as administrator /doublefacepalm.
 
 Now though, what about the key-logger tool? Innocently I walk over to my buddies imaginary desk, and ask him if he can log into our support portal, a web-application, to look at a ticket I have questions about.
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf5.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf5.JPG)
 
 I see him type the URL, enter his user name and password, and log in. After we are done I go back and dump the credentials that Meterpreter should log for me:
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf6.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf6.JPG)
 
 Well darn! I guess AntiLogger does work!
 
 Not to be foiled, I figure that perhaps the clipboard monitoring tool made by my friend OJ aka 0-day Reeves, aka <a href="https://twitter.com/thecolonial" target="_blank">TheColonial</a> made a while ago (more info: <a href="http://buffered.io/posts/3-months-of-meterpreter/" target="_blank">http://buffered.io/posts/3-months-of-meterpreter/</a>)
 
 Invoking the extra badassery he made, I start the clipboard monitor:
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf7.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf7.JPG)
 
 After a while I do a clipboard_dump to see if anything interesting is there:
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf8.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf8.JPG)
 
 Well, not very. But at least it works. Now what about the password manager my somewhat fictional buddy uses? Will those credentials be captured after all?
 
 And..nothing. Seems that this rather obscure password manager uses browser plug-ins and does not use the clipboard to transfer data. How disappointing (from an attackers point of view).
 
 How about a more popular password manager tool like LastPass though? How does that fare work:
-![msf]({{ site.url }}/public/images/thisishowyougetshells/msf9.JPG)
+![msf]({{ site.url }}/static/img/thisishowyougetshells/msf9.JPG)
 
 Well I'll be darned; nothing. So because this also uses a browser plug-in; the clipboard isn't used and this too is a great way to protect your passwords. Obviously when you copy it from the password manager to be used outside of a browser, the clipboard is used. It's not a complete fix.
 

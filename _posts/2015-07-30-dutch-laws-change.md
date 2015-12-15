@@ -2,6 +2,8 @@
 layout: post
 title: Dutch law and responsible disclosure
 description: Some thoughts about the responsible disclosure policies and the changes in Dutch law
+post_author: Ar0xA
+tags: dutch CBP
 ---
 
 In 2013 the Dutch government published an "Advice for responsible disclosure" ([Dutch] <a href="http://www.rijksoverheid.nl/onderwerpen/cybercrime/documenten-en-publicaties/rapporten/2013/01/04/leidraad-om-te-komen-tot-een-praktijk-van-responsible-disclosure.html" target="_blank">leidraad responsible disclosure</a>). The idea is that if whoever finds a bug adheres to the rules of the responsible disclosure policy of whatever entity he is looking at, he or she will not prosecuted by the entity compromised.
@@ -21,7 +23,7 @@ My gut instinct would be to think that it's no longer a good idea to have a resp
 That means research needs to be done to figure out the exact impact between the new laws and the official responsible disclosure guideline. One big and well known proponent of responsible disclosure, a Dutch journalist called <a href="https://twitter.com/brenno" target="_blank">Brenno de Winter</a> said on Twitter that he's busy researching it and writing a book about it's impact.
 
 [Dutch]
-![twitter brenno response]({{ site.url }}/public/images/dutchlaw/twitter_brenno.JPG)
+![twitter brenno response]({{ site.url }}/static/img/dutchlaw/twitter_brenno.JPG)
 
 In English:<br />
 Ar0xA: <i>@brenno do you know if anyone has done research regarding the advice of responsible disclosure in relation to the new law notification data-leaks 2016?</i><br />

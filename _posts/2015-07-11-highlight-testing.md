@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing highlight javascript
+post_author: Ar0xA
 ---
 
 <pre class="brush: python">

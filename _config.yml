@@ -1,18 +1,46 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+permalink: /:year-:month-:day/:title/
 
-# Permalinks
-permalink:        pretty
+highlighter: true
+markdown: redcarpet
+redcarpet:
+  extensions: [
+   "no_intra_emphasis"
+   ,"fenced_code_blocks"
+   ,"autolink"
+   ,"tables"
+   ,"strikethrough"
+   ,"superscript"
+   ,"with_toc_data"
+   ,"footnotes"
+   ,"highlight"
+   ,"underline"
+   ,"quote"
+   ,"lax_spacing"
+   ,"prettify"
+#   ,"html_toc"
+  ]
 
-# Setup
-title:            Too Long; Do Read
-
-description:      'I am not <u>just</u> talking crap'
-url:              https://tldr.nu
-
-author:
-  name:           'Ar0xA'
-  url:            https://twitter.com/Ar0xA
+#gems
+gems: [jekyll-paginate]
 
 paginate:         5
+
+
+
+paginate: 10
+paginate_path: ":num"
+baseurl: ""
+
+
+
+title: "Too Long; Do Read"
+email: "ar0xa@tldr.nu"
+description: "I am not <u>just</u> talking crap"
+github_username:  "ar0xa"
+
+
+
+#url: "https://tldr.nu"
+#imgrepo: "https://tldr.nu/static/img"
+url: "http://91.243.75.59:4002"
+
