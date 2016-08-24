@@ -1,6 +1,6 @@
 permalink: /:year-:month-:day/:title/
 
-highlighter: true
+highlighter: rouge
 markdown: kramdown
 #gems
 gems: [jekyll-paginate]
