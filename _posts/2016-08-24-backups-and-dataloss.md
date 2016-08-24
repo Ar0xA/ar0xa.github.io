@@ -5,13 +5,13 @@ description: Welp, why didn't I verify my backup
 tags: idiot blog backup
 ---
 
-<h2>How quantum; a backup contains of 3 states</h2>
+<h2>How quantum; a backup consists of 3 states</h2>
 Well, the blog is back online from github pages after my cheap VPS host decided to cancel on me. They did claim to send out warning emails, but I never saw them. <br>
 
 <br>
 No issue I thought, I make regular backups to github. Or do I? Turned out I sort of did..but considering the blog hardly never contained anything world shattering, I never verified those backups worked. <br>
 <br>
-I concluded that backups contain 3 possible states: <br>
+I concluded that a backup consists of 3 possible states: <br>
 - not made <br>
 - made, but not verified <br>
 - made and verified <br>
