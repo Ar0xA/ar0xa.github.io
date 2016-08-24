@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replacing eip on #vulnhub
+title: Replacing eip on &pound;vulnhub
 description: How to replace our italian imgur addict
 tags: eip
 ---
