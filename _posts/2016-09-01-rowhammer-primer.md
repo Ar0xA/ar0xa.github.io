@@ -4,7 +4,6 @@ title: Rowhammer primer
 description: What is rowhammer and why does it work?
 tags: rowhammer hacking exploit
 ---
-<h1>Rowhammer TL;DR-style</h1>
 Attending whiskeyleaks on the 19th of september, I saw one of the talks will be about a special type of Rowhammer attack called <a href="https://www.vusec.net/projects/flip-feng-shui/">Flip Feng Shui</a>. It can be used to influence seperate virtual machines on the same hypervisor and was created by <a href="gober">Kaveh Razavi</a>, <a href="https://twitter.com/bjg">Ben Gras</a> and Erik Bosman.
 While I heard about Rowhammer, I've never invested time into actually reading up on the how and why of it. Below is a tl;dr style writeup of what Rowhammer is and why it works. Personally I am hoping that with this information I will be able to understand the talk on Flip Feng Shui ;)
 
