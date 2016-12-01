@@ -5,7 +5,11 @@ body {
 	background-color:black;
 	color:white;
 }
-#divid {
+#divid_nl {
+    color:red;
+	font-size: x-large;
+}
+#divid_en {
     color:red;
 	font-size: x-large;
 }
@@ -25,13 +29,11 @@ a:link {
 }
 #over:hover #zien {
 display:block;}
-
 #zien {
     background-color: green;
     display:none;
 	padding: 10px 10px 10px 10px;
 }
-
 </style>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script type="text/javascript">
@@ -177,7 +179,6 @@ var sentences_en = [
 		$('#divid_en').html(rand);
 	}
 }
-
 window.onload = function() {
   var lang= getCookie('language');
   if (lang=="") {
@@ -190,7 +191,6 @@ window.onload = function() {
   hideShow();
   fillDiv();
 };
-
 function getCookie(cname) {
     var name = cname + "=";
     var ca = document.cookie.split(';');
@@ -205,7 +205,6 @@ function getCookie(cname) {
     }
     return "";
 } 
-
 function hideShow() {
     var ulang= getCookie('language');
 	var known = { en: true, nl: true};
@@ -217,7 +216,6 @@ function hideShow() {
     $('div.wrapper[lang='  + ulang + ']').show();
     $('div.wrapper[lang!=' + ulang + ']').hide();
 }
-
 function recompute(nlang) {   
       if (nlang == 'en') {
 	   document.cookie="language=en";
